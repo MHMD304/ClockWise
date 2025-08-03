@@ -4,6 +4,35 @@
 
 ClockWise is a comprehensive web-based time management and study assistant application built with PHP, MySQL, HTML, CSS, and JavaScript. It helps users organize their schedules, manage study sessions, store recordings, and maintain contacts in one integrated platform.
 
+## 📸 Screenshots
+
+### 🏠 Home Dashboard
+![Home Dashboard](screenshots/home-dashboard.png)
+*Main dashboard showing today's agenda, calendar view, and quick access buttons*
+
+### 🔐 Login & Registration
+![Login Page](screenshots/login-page.png)
+*Secure login interface with remember me functionality*
+
+![Signup Page](screenshots/signup-page.png)
+*User registration form with validation*
+
+### 📅 Calendar Management
+![Calendar View](screenshots/calendar-view.png)
+*Full calendar interface with event scheduling and management*
+
+### ⏰ Study Timer
+![Study Timer](screenshots/study-timer.png)
+*Pomodoro timer with start, pause, and reset controls*
+
+### 🎵 Recording Storage
+![Recordings Page](screenshots/recordings-page.png)
+*File upload and management interface for audio recordings*
+
+### 👥 Contact Form
+![Contact Page](screenshots/contact-page.png)
+*Contact form with email integration*
+
 ## ✨ Features
 
 ### 🏠 **Home Dashboard**
